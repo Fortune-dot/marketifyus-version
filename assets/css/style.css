@@ -141,6 +141,29 @@
   background-position: center center;
 }
 
+
+/***TELLA MEDIA QUERIES****/
+
+@media screen and (max-width:600px) 
+{
+
+
+
+
+#topo
+{
+
+  
+   
+    background:url(../img/hero/small.jpg)!important;   
+    background-repeat:no-repeat;
+    background-size:cover!important;
+}
+
+
+}
+
+/***TELLA MEDIA QUERIES****/
 /* line 9, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
 [data-overlay]::before {
   position: absolute;
