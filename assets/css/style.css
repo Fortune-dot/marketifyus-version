@@ -162,7 +162,9 @@
 
 
 }
-
+#contactForm{
+  padding:10px;
+}
 /***TELLA MEDIA QUERIES****/
 /* line 9, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_overlay.scss */
 [data-overlay]::before {

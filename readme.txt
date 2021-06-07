@@ -1,8 +1,7 @@
-Thank you for using our template!
+Designed and Maintained by Langat Fortune😎💖
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Contact me: fortunelangat54@gmail.com 
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Youtube: https://youtube.com/fortunedevacademy
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+##Get a quotation for your website now and get your dreams turned into a possibility##
